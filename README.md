@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working @ [Cognizant][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Reach 10K family at Coder's Gyan. 
-- ⚡ Fun fact: I love to sing and watch movies
+- 🥅 2021 Goals: Complete 10 projects which I can feel proud of 
+- ⚡ Fun fact: I love to eat, sing and watch movies
 
 ### Connect with me:
 
