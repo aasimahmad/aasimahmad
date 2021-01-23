@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working @ [Cognizant][cognizant-website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
-- 📫 How to reach me: Email me on [email] and we will catch-up 
+- 📫 How to reach me: [Email] me and we will catch-up 
 - 🥅 2021 Goals: Complete 10 projects which I can feel proud of 
 - ⚡ Fun fact: I love to eat, sleep and watch movies
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 [website]: https://hopeful-lalande-25dd8a.netlify.app
 [cognizant-website]: https://www.cognizant.com/
-[email]: aasimahmad5@gmail.com
+[Email]: aasimahmad5@gmail.com
 [twitter]: https://twitter.com/
 [facebook]: https://www.facebook.com/
 [youtube]: https://www.youtube.com/
