@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Aasim 👋
 
 ## I'm a Frontend Web Developer and Javascript Enthusiast!
-- 🔭 I’m currently working @ [Cognizant][website]
+- 🔭 I’m currently working @ [Cognizant][cognizant-website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Complete 10 projects which I can feel proud of 
@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Aasim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aasimahmad&show_icons=true&hide_border=true" />
 
 [website]: https://hopeful-lalande-25dd8a.netlify.app
+[cognizant-website]: https://www.cognizant.com/
 [twitter]: https://twitter.com/
 [facebook]: https://www.facebook.com/
 [youtube]: https://www.youtube.com/
