@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 [website]: https://hopeful-lalande-25dd8a.netlify.app
 [cognizant-website]: https://www.cognizant.com/
-[Email]: aasimahmad5@gmail.com
+[Email]: mailto:aasimahmad5@gmail.com
 [twitter]: https://twitter.com/
 [facebook]: https://www.facebook.com/
 [youtube]: https://www.youtube.com/
