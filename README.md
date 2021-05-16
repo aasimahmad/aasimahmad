@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Aasim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aasimahmad&show_icons=true&hide_border=true" />
 
-[website]: https://hopeful-lalande-25dd8a.netlify.app
+[website]: https://aasimahmad.netlify.app
 [cognizant-website]: https://www.cognizant.com/
 [Email]: mailto:aasimahmad5@gmail.com
-[twitter]: https://twitter.com/
-[facebook]: https://www.facebook.com/
+[twitter]: https://twitter.com/mdaasimahmad
+[facebook]: https://www.facebook.com/aasim.ahmad
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
 [webdevplaylist]: https://www.youtube.com/
