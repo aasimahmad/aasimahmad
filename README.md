@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
 - 📫 How to reach me: [Email] me and we will catch-up 
-- 🥅 2021 Goals: Complete 10 projects which I can feel proud of 
+- 🥅 2022 Goals: Complete 10 projects which I can feel proud of 
 - ⚡ Fun fact: I love to eat, sleep and watch movies
 
 ### Connect with me:
 
 [<img align="left" alt="codersgyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<!-- [<img align="left" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  -->
 [<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codersgyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/mdaasimahmad
 [facebook]: https://www.facebook.com/aasim.ahmad
 [youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/
+[instagram]: https://www.instagram.com/not.aasim
 [webdevplaylist]: https://www.youtube.com/
 [jsplaylist]: https://www.youtube.com/
 [cssplaylist]: https://www.youtube.com/
