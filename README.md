@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
 - 📫 How to reach me: [Email] me and we will catch-up 
-- 🥅 2022 Goals: Complete 10 projects which I can feel proud of 
+- 🥅 2021 Goals: Complete 10 projects which I can feel proud of 
 - ⚡ Fun fact: I love to eat, sleep and watch movies
 
 ### Connect with me:
