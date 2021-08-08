@@ -7,7 +7,7 @@
     <p>🙏🏻 Welcome to my GitHub profile!<br />
         I am a <b>Frontend Developer</b> 🚀 from <b>Jamshedpur, India</b> <img
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" />.<br />
-        I love building side projects 😍, and most of them are <b>Open source</b>. </p>
+        I love building side projects 😍, and most of them are <b>Open Source</b>. </p>
     <div>
         <a href="https://twitter.com/MdAasimAhmad" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
