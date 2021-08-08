@@ -96,7 +96,7 @@
                     src="https://github-readme-stats.vercel.app/api/pin/?username=aasimahmad&repo=covid-tracker&theme=dark" /></a>
             <a href="https://github.com/aasimahmad/WikiFind">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=aasimahmad&repo=&theme=dark" /></a>
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=aasimahmad&repo=WikiFind&theme=dark" /></a>
         </p>
     </div>
     <br />
