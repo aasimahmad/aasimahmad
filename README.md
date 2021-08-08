@@ -32,7 +32,7 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>          
-            <li> 👨🏻‍💻 I'm currently working on my personal website and side projects 🌐</li>
+            <li> 👨🏻‍💻 I'm love working on side projects 😃+💻+🧠=🏆</li>
             <li> 💬 Ask me about Javascript <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
                     width="16" /></li>
