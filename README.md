@@ -151,11 +151,9 @@
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasimahmad&hide=assembly&layout=compact&theme=dark" />
             </p>
     </div>
-
 </div>
 
 <hr />
-</br>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=aasimahmad&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
         width="130" /><br />
