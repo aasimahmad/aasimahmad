@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hi there, I'm 
         <a href="https://aasimahmad.netlify.app" target="_blank">
-            Md Aasim Ahmad
+            Aasim
         </a> 
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
     </h1>
@@ -44,9 +44,9 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨‍🎓I am Md Aasim Ahmad, graduated from B.N.M Institute of Technology, Bengaluru.</li>
-            <li> 💻I am a <b> front-end web developer </b> and a 📱<b> JavaScript enthusiast. </b> </li>
+            <li> 💻 I am a <b> front-end web developer </b> and a 📱<b> JavaScript enthusiast. </b> </li>
             <li> 👨🏻‍💻 I love ❤ working on <b> exciting projects: 😃+💻+🧠=🏆</li>
+            <li> 📚 What do I believe? Jack of all, Master of some.</li>
             <li> 💬 Ask me about Javascript <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
                     width="16" /></li>
