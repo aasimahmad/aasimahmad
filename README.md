@@ -45,7 +45,7 @@
             What I'm up to</h2>
         <ul>
             <li> 💻 I am a <b> front-end web developer </b> and a 📱<b> JavaScript enthusiast. </b> </li>
-            <li> 👨🏻‍💻 I love ❤ working on <b> exciting projects: 😃+💻+🧠=🏆</li>
+            <li> 👨🏻‍💻 I love ❤ working on <b> exciting projects: 😃+💻+🧠=🏆 </b> </li>
             <li> 📚 What do I believe? Jack of all, Master of some.</li>
             <li> 💬 Ask me about Javascript <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
