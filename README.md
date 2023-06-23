@@ -31,10 +31,10 @@
         <a href="https://t.me/aasimahmad">
         <img alt="Telegram" src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white">
         </a>
--->
         <a href="https://www.instagram.com/not.aasim/" target="_blank">
         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
         </a>
+-->
     </div>
 </div>
 
@@ -69,12 +69,12 @@
                 width="35" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"
                 alt="Javascript" />&nbsp;&nbsp;&nbsp            
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactjs/reactjs.png"
-                alt="React.js" width="55" />
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
                 alt="React.js" width="55" />
-            <!--
-        <img src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter"
+<!--
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactjs/reactjs.png"
+                alt="React.js" width="55" />
+            <img src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter"
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="Mongo DB"
                 width="48" />&nbsp;&nbsp;&nbsp
@@ -84,9 +84,9 @@
                 alt="Java" />&nbsp;&nbsp;&nbsp
             <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="48"
                 alt="Dart" />&nbsp;&nbsp;&nbsp
-            -->
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"
                 width="48" />&nbsp;&nbsp;&nbsp
+-->
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass"
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
@@ -95,14 +95,14 @@
         </p>
 <p align="center"> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
+<!--   <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" /> -->
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
- <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<!--  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> -->
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -115,8 +115,9 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 -->
+    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+
 </p>
     </div>  
     <div>
@@ -135,7 +136,7 @@
                 <img
                     src="https://github-readme-stats.vercel.app/api/pin/?username=aasimahmad&repo=covid-tracker&theme=dark" /></a>
         </p>
-        <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg">
+<!--         <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"> -->
     </div>
     <div>
         <h2>⏱ My Stats
