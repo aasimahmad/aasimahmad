@@ -69,6 +69,15 @@
                 width="35" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"
                 alt="Javascript" />&nbsp;&nbsp;&nbsp
+            <svg viewBox="-11.5 -10.23174 23 20.46348">
+              <circle cx="0" cy="0" r="2.05" fill="#61dafb"/>
+              <g stroke="#61dafb" stroke-width="1" fill="none">
+                <ellipse rx="11" ry="4.2"/>
+                <ellipse rx="11" ry="4.2" transform="rotate(60)"/>
+                <ellipse rx="11" ry="4.2" transform="rotate(120)"/>
+              </g>
+            </svg>
+            
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactjs/reactjs.png"
                 alt="React.js" width="55" />
             <!--
