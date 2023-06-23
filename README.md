@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi there, I'm 
+    <h1>Hi There, I'm 
         <a href="https://aasimahmad.netlify.app" target="_blank">
             Aasim
         </a> 
@@ -56,8 +56,8 @@
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:aasimahmad5@gmail.com" target="_blank">aasimahmad5@gmail.com</a></li>
-            <li>👀 Take a look at <a href="https://aasimahmad.netlify.app/" target="_blank">My Portfolio</a></li>
-            <li>📄 Here's my <a href="" target="_blank">Resume</a></li>
+            <li>👀 Take a look at <a href="https://aasim5.netlify.app/" target="_blank">My Portfolio</a></li>
+<!--             <li>📄 Here's my <a href="" target="_blank">Resume</a></li> -->
         </ul>
     </div>
     <div>
@@ -69,7 +69,7 @@
                 width="35" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"
                 alt="Javascript" />&nbsp;&nbsp;&nbsp
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/reactjs.png"
                 alt="React.js" width="55" />
             <!--
         <img src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter"
