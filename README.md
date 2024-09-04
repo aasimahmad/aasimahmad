@@ -158,7 +158,7 @@
 
 <hr />
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=aasimahmad&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
+    <img src="https://komarev.com/ghpvc/?username=aasimahmad&color=brightgreen&style=flat-square&label=PROFILE+VIEWS%20+"
         width="130" /><br />
     <a href="https://www.buymeacoffee.com/aasimahmad" target="_blank"><img
             src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
