@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi There, I'm 
+    <h1>Hi there, I'm 
         <a href="https://aasimahmad.netlify.app" target="_blank">
             Aasim
         </a> 
@@ -49,9 +49,11 @@
             <li> 📚 What do I believe? Jack of all, Master of some.</li>
             <li> 💬 Ask me about Javascript <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
-                    width="16" /></li>
-            <li> 🎓 I'm currently learning React <img align="center"
+                    width="16" /> and React <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
+                    width="16" /></li>
+            <li> 🎓 I'm currently learning Next.js <img align="center"
+                    src="https://slackmojis.com/emojis/93178-next-js"
                     width="16" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
