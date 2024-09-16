@@ -130,13 +130,15 @@
             <a href="https://github.com/aasimahmad/Md-Aasim-Ahmad">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aasimahmad&repo=Md-Aasim-Ahmad&theme=dark" /></a>
             <a href="https://github.com/aasimahmad/Wordle-Clone">
-                <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=aasimahmad&repo=Wordle-Clone&theme=dark" /></a>
-            <a href="https://github.com/aasimahmad/Task-Organiser">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aasimahmad&repo=Task-Organiser&theme=dark" /></a>
-            <a href="https://github.com/aasimahmad/covid-tracker">
-                <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=aasimahmad&repo=covid-tracker&theme=dark" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aasimahmad&repo=Wordle-Clone&theme=dark" /></a>
+            <a href="https://github.com/aasimahmad/Notes-App">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aasimahmad&repo=Notes-App&theme=dark" /></a>
+            <a href="https://github.com/aasimahmad/WikiFind">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aasimahmad&repo=WikiFind&theme=dark" /></a>
+            <a href="https://github.com/aasimahmad/dot-store">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aasimahmad&repo=dot-store&theme=dark" /></a>
+            <a href="https://github.com/aasimahmad/Pomodoro-Timer">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aasimahmad&repo=Pomodoro-Timer&theme=dark" /></a>
         </p>
 <!--         <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"> -->
     </div>
