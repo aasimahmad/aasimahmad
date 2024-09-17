@@ -52,7 +52,7 @@
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:aasimahmad5@gmail.com" target="_blank">aasimahmad5@gmail.com</a></li>
-            <li>👀 Take a look at <a href="https://aasim5.netlify.app/" target="_blank">My Portfolio</a></li>
+            <li>👀 Take a look at <a href="https://aasimahmad.netlify.app/" target="_blank">My Portfolio</a></li>
 <!--             <li>📄 Here's my <a href="" target="_blank">Resume</a></li> -->
         </ul>
     </div>
