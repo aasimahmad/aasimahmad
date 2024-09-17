@@ -10,18 +10,10 @@
     <br/><br/>
     <p>🙏🏻 Welcome to my <b>GitHub</b> profile! 😍</p>
     <div>
-        <a href="https://twitter.com/MdAasimAhmad" target="_blank">
-        <img alt="X" src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />
-        </a>
-        <a href="https://github.com/aasimahmad" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-        </a>
-        <a href="https://www.linkedin.com/in/aasimahmad" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="mailto:aasimahmad5@gmail.com" target="_blank">
-        <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-        </a>
+        <a href="https://twitter.com/MdAasimAhmad" target="_blank"><img alt="X" src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
+        <a href="https://github.com/aasimahmad" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+        <a href="https://www.linkedin.com/in/aasimahmad" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:aasimahmad5@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <!--
         <a href="https://medium.com/@username" target="_blank">
         <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
@@ -44,17 +36,19 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 💻 I am a <b> front-end web developer </b> and a 📱<b> JavaScript enthusiast. </b> </li>
+            <li> 💻 I am a <b> front-end web developer </b> <img align="center" src="https://img.icons8.com/?size=100&id=keI1M862UTP2&format=png&color=000000" width="22" /> and a <b> JavaScript enthusiast</b> <img align="center" src="https://img.icons8.com/?size=100&id=3sQY8JkktfnK&format=png&color=000000" width="20" /> </li>
             <li> 👨🏻‍💻 I love ❤ working on <b> exciting projects: 😃+💻+🧠=🏆 </b> </li>
-            <li> 📚 What do I believe? Jack of all, Master of some.</li>
+            <li> 📚 What do I believe? Jack of all, Master of some <img align="center" src="https://img.icons8.com/?size=100&id=VUt5dWfcfFzt&format=png&color=000000" width="20" /> </li>
             <li> 💬 Ask me about Javascript <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
-                    width="16" /> and React <img align="center"
+                    width="18" /> and React <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
-                    width="16" /></li>
+                    width="18" /></li>
             <li> 🎓 I'm currently learning Next.js <img align="center"
-                    src="https://slackmojis.com/emojis/93178-next-js"
-                    width="16" /></li>
+                    src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"
+                    width="28" /> and Generative <img align="center"
+                    src="https://img.icons8.com/?size=100&id=M6ihFyU103Nh&format=png&color=000000"
+                    width="25" /> </li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:aasimahmad5@gmail.com" target="_blank">aasimahmad5@gmail.com</a></li>
