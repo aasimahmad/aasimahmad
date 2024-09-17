@@ -5,7 +5,7 @@
         </a> 
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
     </h1>
-    <h2 align="center">I am a Web Developer</h2>
+    <h2 align="center">I am a Frontend Web Developer</h2>
     <img alt="Developer Pic" src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my <b>GitHub</b> profile! 😍</p>
